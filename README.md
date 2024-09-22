@@ -4,27 +4,29 @@
 
 ## Education
 
-### Clark University, School of Geography, Worcester, MA
+### Clark University, School of Geography, Worcester,
 
-**Master’s in Geographic Information Science**  
-Expected: May 2026
+<span style="float: right;">Expected: May 2026</span>
+
+**Master’s in Geographic Information Science**
 
 ### Clark University, School of Professional Studies, Worcester, MA
 
-**Master of Science in Data Analytics**  
-Completed: December 2023
+<span style="float: right;">December 2023</span>
+
+**Master of Science in Data Analytics**
 
 ### Softwarica College of IT and E-commerce, Kathmandu, Nepal
 
-**Bachelor of Science in Computing**  
-Completed: January 2020
+<span style="float: right;">January 2020</span>
+
+**Bachelor of Science in Computing**
 
 ## Experience
 
 ### Softwarica College of IT and E-commerce, Nepal
 
-**Data Analyst / Developer**  
-_July 2020 – July 2021_
+**Data Analyst / Developer** <span style="float: right;">July 2020 – July 2021</span>
 
 - Cleaned millions of data from 250 different table sources of Moodle database using SQL and Tableau Prep.
 - Developed executive, marketing, ticketing, and performance dashboards using Tableau.
@@ -33,8 +35,7 @@ _July 2020 – July 2021_
 
 ### Softwarica College of IT and E-commerce, Nepal
 
-**Teacher Assistant**  
-_June 2019 – July 2020_
+**Teacher Assistant** <span style="float: right;">June 2019 – July 2020</span>
 
 - Supervised around 40 undergraduate students per project semester.
 - Performed research work and executed innovative projects like building a three-wheel electric car and online transaction vending machine.
@@ -42,8 +43,7 @@ _June 2019 – July 2020_
 
 ### Hotel Pokhara Peace, Nepal
 
-**Manager**  
-_January 2017 – September 2019_
+**Manager** <span style="float: right;">January 2017 – September 2019</span>
 
 - Monitored staff performance to ensure the hotel operated smoothly and guests were satisfied.
 - Inspected grounds, public areas, and guest rooms for cleanliness and appearance.
@@ -52,8 +52,7 @@ _January 2017 – September 2019_
 
 ## Certifications
 
-- **Google Data Analytics Certificate**  
-  _June 2021_ (Coursera)
+- **Google Data Analytics Certificate (Coursera)** <span style="float: right;">June 2021</span>
 
 ## Skills
 
