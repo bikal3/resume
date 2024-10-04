@@ -6,7 +6,7 @@
 
 ### Clark University, School of Geography, Worcester,
 
-<span style="float: right;">Expected: May 2026</span>
+<span style="float: right;"> May 2026</span>
 
 **Master’s in Geographic Information Science**
 
